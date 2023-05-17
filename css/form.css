@@ -1,9 +1,9 @@
 .form {
     margin: 60px;
     padding: 20px;
-    color: #1e1e6b;
+    color: #12534d;
     font-weight: bold;
-    background-color: #ede7e0;
+    background-color: #eaeae7;
     border-radius: 30px;
 
 }
@@ -44,7 +44,7 @@
     padding: 5px;
     border-radius: 5px;
     width: 120px;
-    background-color: #181864;
+    background-color:#777272;
     color: aliceblue;
 
 }
@@ -58,5 +58,5 @@
 }
 
 .form__result {
-    color: #301e1e;
+    color: #262424;
 }
