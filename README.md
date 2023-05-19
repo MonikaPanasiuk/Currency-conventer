@@ -1,5 +1,5 @@
 # Currency-conventer
-Currency - converter
+![OpenGraph image]()
 ##  Demo 
 [Github] (https://monikapanasiuk.github.io/Currency-conventer/)
 ### Przelicznik złotówek Pl na:
