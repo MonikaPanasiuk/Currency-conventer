@@ -9,4 +9,5 @@ Currency - converter
 - Frank szwajcarski
 - Korona czeska
 ### UI 
+![Przelicznik walut](https://github.com/MonikaPanasiuk/Currency-conventer/blob/main/images/Przelicznik%20walut%20UI.png?raw=true)
 
