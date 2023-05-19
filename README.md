@@ -1,7 +1,7 @@
 # Currency-converter
 ![OpenGraph image](https://github.com/MonikaPanasiuk/Currency-converter/blob/main/images/Przelicznik%20walut.png?raw=true)
 ##  Demo 
-[Github] (https://monikapanasiuk.github.io/Currency-conventer/)
+[Github] (https://monikapanasiuk.github.io/Currency-converter/)
 ### Technology used:
 - HTML
 - CSS
@@ -23,4 +23,9 @@ Currency converter shows how much Polish Zloty is worth in other currencies. You
 2. Choose currency from drop down box.
 3. Click on "Przelicz" button.
 4. Converted amount of money is displayed underneath "Przelicz" button.
+
+### Author
+Monika Panasiuk
+
+
 
