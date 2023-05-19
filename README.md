@@ -16,7 +16,7 @@ Currency converter shows how much Polish Zloty is worth in other currencies. You
 - Swiss Frank (CHF)
 - Czech Koruna (CZK)
 
-![Pzzelicznik walut](https://github.com/MonikaPanasiuk/Currency-conventer/blob/main/images/Przelicznik%20walut%20UI.png?raw=true)
+![Pzzelicznik walut](https://github.com/MonikaPanasiuk/Currency-converter/blob/main/images/Currency%20converter%20UI%20.png?raw=true)
 
 ### HOW TO USE IT:
 1. Write down an amount of Polish Zloty into dedicated box.
