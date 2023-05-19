@@ -18,4 +18,9 @@ Currency converter shows how much Polish Zloty is worth in other currencies. You
 
 ![Pzzelicznik walut](https://github.com/MonikaPanasiuk/Currency-conventer/blob/main/images/Przelicznik%20walut%20UI.png?raw=true)
 
+### HOW TO USE IT:
+1. Write down an amount of Polish Zloty into dedicated box.
+2. Choose currency from drop down box.
+3. Click on "Przelicz" button.
+4. Converted amount of money is displayed underneath "Przelicz" button.
 
